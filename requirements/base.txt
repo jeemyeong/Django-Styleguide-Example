@@ -1,4 +1,4 @@
-Django==4.1.9
+django==3.2.14
 django-environ==0.9.0
 # Python-PostgreSQL Database Adapter
 psycopg2==2.9.5; sys_platform != 'darwin'
